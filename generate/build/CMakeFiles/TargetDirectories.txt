@@ -1,0 +1,3 @@
+/Users/xinbowang/Documents/Docs for Xcode/generate/build/CMakeFiles/rebuild_cache.dir
+/Users/xinbowang/Documents/Docs for Xcode/generate/build/CMakeFiles/edit_cache.dir
+/Users/xinbowang/Documents/Docs for Xcode/generate/build/CMakeFiles/generate.dir

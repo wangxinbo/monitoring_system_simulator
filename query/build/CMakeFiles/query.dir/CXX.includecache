@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xinbowang/Documents/Docs for Xcode/query/main.cpp
+iostream
+-
+src/Printer.hpp
+/Users/xinbowang/Documents/Docs for Xcode/query/src/Printer.hpp
+src/Querier.hpp
+/Users/xinbowang/Documents/Docs for Xcode/query/src/Querier.hpp
+string
+-
+
+/Users/xinbowang/Documents/Docs for Xcode/query/src/Printer.cpp
+Printer.hpp
+/Users/xinbowang/Documents/Docs for Xcode/query/src/Printer.hpp
+
+/Users/xinbowang/Documents/Docs for Xcode/query/src/Printer.hpp
+iostream
+-
+
+/Users/xinbowang/Documents/Docs for Xcode/query/src/Querier.cpp
+Querier.hpp
+/Users/xinbowang/Documents/Docs for Xcode/query/src/Querier.hpp
+
+/Users/xinbowang/Documents/Docs for Xcode/query/src/Querier.hpp
+Printer.hpp
+/Users/xinbowang/Documents/Docs for Xcode/query/src/Printer.hpp
+iostream
+-
+string
+-
+fstream
+-
+sstream
+-
+vector
+-
+time.h
+-
+iostream
+-
+cstdlib
+-
+cctype
+-
+

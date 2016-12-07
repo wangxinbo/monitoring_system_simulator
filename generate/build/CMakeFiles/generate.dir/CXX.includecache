@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xinbowang/Documents/Docs for Xcode/generate/main.cpp
+iostream
+-
+src/Generator.hpp
+/Users/xinbowang/Documents/Docs for Xcode/generate/src/Generator.hpp
+src/Printer.hpp
+/Users/xinbowang/Documents/Docs for Xcode/generate/src/Printer.hpp
+string
+-
+
+/Users/xinbowang/Documents/Docs for Xcode/generate/src/Generator.cpp
+Generator.hpp
+/Users/xinbowang/Documents/Docs for Xcode/generate/src/Generator.hpp
+
+/Users/xinbowang/Documents/Docs for Xcode/generate/src/Generator.hpp
+Printer.hpp
+/Users/xinbowang/Documents/Docs for Xcode/generate/src/Printer.hpp
+iostream
+-
+string
+-
+fstream
+-
+sstream
+-
+time.h
+-
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+
+/Users/xinbowang/Documents/Docs for Xcode/generate/src/Printer.cpp
+Printer.hpp
+/Users/xinbowang/Documents/Docs for Xcode/generate/src/Printer.hpp
+
+/Users/xinbowang/Documents/Docs for Xcode/generate/src/Printer.hpp
+iostream
+-
+
